@@ -1,0 +1,1 @@
+select * from rooms where room_number = '531'
